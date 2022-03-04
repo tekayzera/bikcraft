@@ -8,7 +8,6 @@
   gap: 40px;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: url(../../img/dec/top-right.svg) no-repeat top 40px right 40px;
 }
 
 .bicicletas-imagem {
@@ -80,7 +79,6 @@
   .bicicletas-bg {
     background: var(--cor-11);
   }
-
   .bicicletas {
     grid-template-columns: 1fr;
     gap: 20px;
@@ -98,7 +96,6 @@
     grid-template-columns: 1fr 1fr;
     margin-bottom: 32px;
   }
-
   .bicicletas a {
     place-self: start;
   }
